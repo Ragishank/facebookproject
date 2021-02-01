@@ -1,0 +1,49 @@
+.img0{ 
+    text-align: center;
+    height:100px;
+    width:250px;
+}
+.l1{
+    color:white;
+}
+.btn-login {
+    color: #fff;
+    background-color: #3b5997;
+    border-color: rgba(0,0,0,0.2);
+    margin-top: 25px;
+
+}
+.p{
+    color: #3b5998;
+    text-align: center left;
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.img1{ 
+  
+    height: 400px;
+    width: 600px;
+    padding-left: 150px;
+}
+.h3{
+    font-weight: bold;
+    padding-top: 30px;
+    font-size: 38px;
+}
+
+.btn-signup{
+    color: #fff;
+    background-color: #12bd20;
+    border-color: rgba(0,0,0,0.2);
+    
+
+}
+.a:link{
+        color: white;
+}
+
+.fm{
+    padding-top:15px;
+    padding-right:20px;
+}
